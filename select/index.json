@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ダリア",
+  "base_artist": "宮下遊",
+  "createdAt": "2025-12-11T22:55:35.346470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダリア",
+      "artist": "Chanmina",
+      "has_synced": false,
+      "path": "select/01_ダリア_Chanmina.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダリア",
+      "artist": "adieu",
+      "has_synced": true,
+      "path": "select/02_ダリア_adieu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダリア",
+      "artist": "立川穂乃花 (早見沙織)",
+      "has_synced": false,
+      "path": "select/03_ダリア_立川穂乃花_(早見沙織).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダリア",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/04_ダリア_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダリア",
+      "artist": "Angela Aki",
+      "has_synced": false,
+      "path": "select/05_ダリア_Angela_Aki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ダリア",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/06_ダリア_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dahlia (ダリア)",
+      "artist": "Angela Aki (アンジェラ・アキ)",
+      "has_synced": false,
+      "path": "select/07_Dahlia_(ダリア)_Angela_Aki_(アンジェラ・アキ).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダリア",
+      "artist": "宮下 遊",
+      "has_synced": false,
+      "path": "select/pl_01_ダリア_宮下_遊.txt"
+    }
+  ]
+}
